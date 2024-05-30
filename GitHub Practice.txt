@@ -1,0 +1,3 @@
+GitHub is a version control tool that allow group of developers to work on the same task.
+
+We can push our code to a global storage and have full control over it.
